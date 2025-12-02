@@ -1,0 +1,5 @@
+{
+  "name": "Health Insights Report",
+  "description": "Interactive data visualization of Malaria, HIV, and TB trends in Zimbabwe (2015-2025).",
+  "requestFramePermissions": []
+}
